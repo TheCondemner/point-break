@@ -5,7 +5,7 @@ registry = "test"
 [[package]]
 name = "admin/point-break"
 version = "0.1.0"
-dependencies = [["Janitor", "howmanysmall/janitor@1.15.1"], ["Knit", "sleitnick/knit@1.4.7"], ["Promise", "evaera/promise@4.0.0"], ["Roact", "roblox/roact@1.4.4"], ["Sift", "csqrl/sift@0.0.1"]]
+dependencies = [["Janitor", "howmanysmall/janitor@1.15.1"], ["Knit", "sleitnick/knit@1.4.7"], ["Promise", "evaera/promise@4.0.0"], ["Roact", "roblox/roact@1.4.4"], ["Sift", "csqrl/sift@0.0.1"], ["Signal", "sleitnick/signal@1.2.1"]]
 
 [[package]]
 name = "csqrl/sift"

@@ -6,6 +6,7 @@ realm = "shared"
 
 [dependencies]
 Knit = "sleitnick/knit@1.4.7" # Service framework
+Signal = "sleitnick/signal@1.2.1" # Remote event wrapper
 Promise = "evaera/promise@4.0.0" # Self-explanatory
 Janitor = "howmanysmall/janitor@1.15.1" # Garbage collection
 Sift = "csqrl/sift@=0.0.1" # Array manipulation
