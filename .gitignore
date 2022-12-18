@@ -1,9 +1,10 @@
-# Project place file
-/Point Break.rbxlx
-build.rbxlx
-node_modules
-.vscode
+# General
+/node_modules
+/.vscode
+/Packages
 
-# Roblox Studio lock files
+# Roblox
+/Point Break.rbxlx
+/build.rbxlx
 /*.rbxlx.lock
 /*.rbxl.lock
