@@ -1,11 +1,15 @@
 {
   "name": "Point Break",
+  "globIgnorePaths": ["Packages/.__*"],
   "tree": {
     "$className": "DataModel",
 
     "ReplicatedStorage": {
-      "Common": {
+      "Shared": {
         "$path": "src/Shared"
+      },
+      "Packages" : {
+        "$path": "Packages"
       }
     },
 

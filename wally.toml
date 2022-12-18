@@ -5,7 +5,8 @@ registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
 
 [dependencies]
-roact = "roblox/roact@1.4.4" # GUI framework
-promise = "evaera/promise@4.0.0" # Self-explanatory
-janitor = "howmanysmall/janitor@1.15.1" # Garbage collection
-knit = "sleitnick/knit@1.4.7" # Service framework
+Knit = "sleitnick/knit@1.4.7" # Service framework
+Promise = "evaera/promise@4.0.0" # Self-explanatory
+Janitor = "howmanysmall/janitor@1.15.1" # Garbage collection
+Sift = "csqrl/sift@=0.0.1" # Array manipulation
+Roact = "roblox/roact@1.4.4" # GUI framework
